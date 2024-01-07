@@ -1,0 +1,2 @@
+DW12345,Toyota,Corolla,2020,150.0,true
+KR67890,Volkswagen,Golf,2019,130.0,true
